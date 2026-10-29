@@ -1,0 +1,5 @@
+name: zeerg/haproxy-quic-cve-queries-tests
+version: 0.0.0
+dependencies:
+  zeerg/haproxy-quic-cve-queries: "*"
+extractor: cpp

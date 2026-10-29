@@ -1,0 +1,2 @@
+| test.c:7:35:7:59 | ... - ... | Subtraction is not proven safe because $@ may be smaller than $@. | test.c:7:43:7:54 | token_length | token_length | test.c:7:58:7:59 | 32 | 32 |
+| test.c:10:5:10:11 | call to consume | Subtraction is not proven safe because $@ may be smaller than $@. | test.c:8:29:8:40 | token_length | token_length | test.c:8:44:8:45 | 33 | 33 |

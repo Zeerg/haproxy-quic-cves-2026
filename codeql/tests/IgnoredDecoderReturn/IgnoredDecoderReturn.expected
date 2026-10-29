@@ -1,0 +1,1 @@
+| test.c:22:5:22:18 | call to advance_cursor | The failure result of $@ is ignored even though the operation can update indirect output. | test.c:3:5:3:18 | advance_cursor | advance_cursor |
